@@ -1,0 +1,5 @@
+{
+    "task_type": "regression",
+    "score_function": "mean_absolute_error",
+    "loss": "mean_squared_error"
+}
